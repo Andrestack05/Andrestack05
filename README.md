@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Andres, Ingeniero de Sistemas 👨‍💻
 
-<!--
-**Andrestack05/Andrestack05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apasionado por la programación, la innovación y el aprendizaje constante. Actualmente estoy formándome como Desarrollador Web en TripleTen, mientras trabajo como Ingeniero de Sistemas en Toshiba. Me considero una persona creativa, disciplinada y siempre lista para asumir nuevos retos.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML / CSS
+- Git y GitHub
+- Visual Studio Code
+- JavaScript (Loading...)
+
+## 📫 Conectemos
+
+- 🇨🇴 Desde Colombia para el mundo
+- 💼 Actualmente trabajando en soluciones Toshiba
+- ✉️ Abierto a colaboraciones y aprendizaje
+- 📧 Email: andressuarez_05@hotmail.com
